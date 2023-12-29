@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451437986815",
+    "project_id": "charitability-3aa9b",
+    "storage_bucket": "charitability-3aa9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451437986815:android:d781704705375d0b021dca",
+        "android_client_info": {
+          "package_name": "com.charitability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451437986815-pec7kg6lo9j6ipki5bo37cpdaremtt5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtdgNZ1IkzA_-bGe--1UjG_O32eCFZPh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451437986815-pec7kg6lo9j6ipki5bo37cpdaremtt5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
